@@ -1,0 +1,39 @@
+# Kmphitech - Review
+
+Independent first-hand review of one software development project with Kmphitech LLP.
+
+## Site navigation
+
+- Home / site index: https://123thundercousins-a11y.github.io/Kmphitech-REVIEW/
+- Full project review: https://123thundercousins-a11y.github.io/Kmphitech-REVIEW/kmphitech-review.html
+- Review requests and order completion: https://123thundercousins-a11y.github.io/Kmphitech-REVIEW/review-pressure.html
+
+## Core facts
+
+- Developer: Kmphitech LLP
+- Project: software mobile application and web panel
+- Original proposal date: 2 June 2025
+- Original stated timeline: 56 business days
+- Recorded Fiverr payments: ₹6,39,547.87
+- Project activity continued into September 2026
+- Platforms: Android, iOS and web
+
+## Main topics documented
+
+- Original written scope and milestone structure
+- Repeated deadline and milestone changes
+- Customer-reported communication gaps and repeated follow-ups
+- KPI / biomass / ADG / FCR calculation discussions
+- Deployment and store-review history
+- Post-deployment production issues and fixes
+- Customer-reported review requests while work remained outstanding
+- Customer-reported assurances that remaining work would be taken care of
+- The practical effect of order completion and the normal cancellation window
+
+## Balance and qualification
+
+This site documents one customer's first-hand experience. It does not claim that every Kmphitech LLP customer has experienced the same outcome.
+
+Where Kmphitech provided an explanation, that explanation is presented separately in the full project review. The review distinguishes customer statements, company statements and recorded project events.
+
+Last updated: 4 October 2026.

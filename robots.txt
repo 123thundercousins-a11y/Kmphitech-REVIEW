@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://123thundercousins-a11y.github.io/Kmphitech-REVIEW/sitemap.xml
